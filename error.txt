@@ -1,0 +1,4 @@
+
+HI
+'peer_id'
+[5] User authorization failed: method is unavailable with group auth.
